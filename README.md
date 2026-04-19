@@ -21,3 +21,9 @@ This project demonstrates a basic DevOps workflow using a Linux environment and 
 2. CI/CD pipeline triggers automatically  
 3. Script executes and installs required packages  
 4. Demonstrates continuous integration workflow 
+
+## System Monitoring Script
+
+- Created a Bash script that can monitor CPU, memory, disk usage, and uptime  
+- Uses Linux commands such as top, free, df, and uptime  
+- Demonstrates system administration and monitoring fundamentals  
